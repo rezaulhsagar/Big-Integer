@@ -13,6 +13,6 @@ public:
 };
 
 int main(){
-    pull test
+
     return 0;
 }
