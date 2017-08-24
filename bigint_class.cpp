@@ -13,9 +13,6 @@ public:
 };
 
 int main(){
-    BigInt b;
-    b.s = "asdf";
-    cout<<b<<endl;
 
     return 0;
 }
